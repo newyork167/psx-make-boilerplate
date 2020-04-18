@@ -100,7 +100,7 @@ $(info $$OFILES is [${OFILES}])
 #---------------------------------------------------------------------------------
 # Default rule, compiles all source files
 #---------------------------------------------------------------------------------
-all: cleanall $(OFILES)
+all: $(OFILES)
 	$(CC) -Xo$(PROGADDR) $(CFLAGS) $(addprefix -L,$(LIBDIRS)) $(addprefix -l,$(LIBS)) $(OFILES) -o $(TARGET).cpe,$(SYMFILE),$(TARGET).map
 	cpe2x $(TARGET).cpe
 
