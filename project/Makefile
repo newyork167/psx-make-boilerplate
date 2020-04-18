@@ -1,19 +1,3 @@
-# ----------------------------
-# PlayStation 1 Psy-Q MAKEFILE
-# ----------------------------
-#TARGET = PROJ5
-#OUTPUT_PATH = F:\Development\out\PROJ5.EXE
-#CC = C:\psyq\psyq\ccpsx.exe
-#PSX_ADDRESS = 0x80010000
-#EXTRA_ARGS = -w -O2
-#NONE_ARG = c:\psyq\lib\none2.obj
-#
-#all:
-#	del proj5.exe
-#	${CC} -Xo${PSX_ADDRESS} ${EXTRA_ARGS} main.c ${NONE_ARG} -o main.cpe
-#	cpe2x /ce main.cpe
-#	ren main.exe proj5.exe
-
 #---------------------------------------------------------------------------------
 # Lameguy's general-purpose makefile for PSX development
 # (for official PlayStation SDK)

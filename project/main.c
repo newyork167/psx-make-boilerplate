@@ -25,7 +25,6 @@ void setupDamageSplash() {
 }
 
 void damageSplash() {
-    printf("Updating damage splash...\n");
     damageColorR -= 10;
     damageSplashBox.r = damageColorR;
 }
