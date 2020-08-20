@@ -1,4 +1,4 @@
-# PSX MAKE TEST
+# PSX MAKE BOILERPLATE
 
 A simple GnuMake setup. Tested with [GnuMake 3.8](https://sourceforge.net/projects/gnuwin32/files/make/3.81/make-3.81-bin.zip/download?use_mirror=svwh&download=) located in the installers folder for convenience.
 
