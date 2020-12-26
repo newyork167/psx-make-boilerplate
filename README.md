@@ -17,6 +17,7 @@ To run the makefile simply run
 ## Thanks
 
 Thanks goes out to [Wituz](https://github.com/Wituz/) for his content and [PSXDev.net](https://psxdev.net) for the amazing forum content! 
+Also random codes bits are pulled from [@lameguy64](https://github.com/Lameguy64) and most likely from other random forum posts/links/discord from [PSXDev.net](https://psxdev.net).
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
